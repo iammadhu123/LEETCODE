@@ -36,7 +36,7 @@ public class SlidingWindowMaximum {
         for(int i = k; i<n; i++) {
             res[j++] = nums[dq.peekFirst()];
             //Remove ele which are not part of window
-            while (dq.size() > 0 && dq.peekFirst() <= i-k) {
+            while (!dq.isEmpty() && dq.peekFirst() <= i-k) { //dq.size() > 0 or !dq.isEmpty()
                 dq.pollFirst();
             }
 
