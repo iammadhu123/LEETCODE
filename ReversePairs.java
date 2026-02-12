@@ -12,7 +12,7 @@ public class ReversePairs {
     //     return pairs;
     // }
 
-    //OPTIMAL -> MERGESORT
+    //OPTIMAL -> MERGESORT O(nlogn)
     public static int mergeSort(int[] nums, int left,int right) {
         if (left>=right) {
             return 0;
