@@ -14,7 +14,7 @@ public class largestRectangle {
         return maxArea;
     }
 
-    public static int largestRectangleArea(int[] height) {
+    public static int largestRectangleArea(int[] height) {//O(n)
         int n = height.length;
 
         //To calculate right smaller nearest
@@ -56,3 +56,5 @@ public class largestRectangle {
         System.out.println(largestRectangleArea(height));
     }
 }
+
+
