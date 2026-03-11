@@ -1,18 +1,19 @@
 public class validPalindrome {
     // public static boolean isPalindrome(String s) {
     //     StringBuilder sb = new StringBuilder();
-    //     for (char c : s.toCharArray()) {
+    //     for (char c : s.toCharArray()) { //s.toCharArray() converts the string into a character array.
     //         if (Character.isLetterOrDigit(c)) {
     //             sb.append(Character.toLowerCase(c));
     //         }
     //     }
-    //     String cleanedString = sb.toString();
-    //     String reversedString = sb.reverse().toString();
+    //     String cleanedString = sb.toString();//Convert to String
+    //     String reversedString = sb.reverse().toString(); //sb.reverse() changes the original StringBuilder.
+    //     String reverseString = new StringBuilder(cleanedString).reverse().toString(); //Better way to reverse the string without modifying the original StringBuilder.
     //     return cleanedString.equals(reversedString);
     // }
 
 
-    // public static boolean isPalindrome(String s){
+    // public static boolean isPalindrome(String s){ //O(n) time complexity and O(1) space complexity
     //     int left = 0;
     //     int right = s.length()-1;
 
@@ -36,7 +37,7 @@ public class validPalindrome {
     //     }
     //     return true;
     // }
-    
+
     public static boolean isPalindrome(String s) {
         int left = 0;
         int right = s.length() - 1;
@@ -62,9 +63,10 @@ public class validPalindrome {
         }
         return true; // It's a palindrome
     }
+
     public static void main(String[] args) {
-        String s = "A man, a plan, a canal: Panama";
-        // String s = "racecar";
+        // String s = "A man, a plan, a canal: Panama";
+        String s = "Ac3?e3c&a";
         System.out.println(isPalindrome(s));
     }
 }
