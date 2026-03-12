@@ -14,30 +14,54 @@ public class validAnagram {
     //     return sorted1.equals(sorted2);
     // }
 
-    public static boolean isAnagram(String s, String t) { //TC = O(n) SC = O(1)
+    // public static boolean isAnagram(String s, String t) { //TC = O(n) SC = O(1)
+    //     if (s.length() != t.length()) {
+    //         return false;
+    //     }
+
+    //     int[] charCount = new int[26];
+    //     // Count the occurrences of each character in s
+    //     for(char c : s.toCharArray()) {
+    //         charCount[c - 'a']++;
+    //     }
+
+    //     // Decrement the counts based on characters in t
+    //     for(char c : t.toCharArray()) {
+    //         charCount[c - 'a']--;
+    //     }
+
+    //     // Check if all counts are zero
+    //     for(int count : charCount) {
+    //         if (count != 0) {
+    //             return false; //Not an anagram
+    //         }
+    //     }
+
+    //     return true; //Is an anagram
+    // }
+
+    public static boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
             return false;
         }
 
-        int[] charCount1 = new int[26];
-        // Count the occurrences of each character in s
+        int[] charCount = new int[26];
         for(char c : s.toCharArray()) {
-            charCount1[c - 'a']++;
+            charCount[c - 'a']++;
         }
 
-        // Decrement the counts based on characters in t
         for(char c : t.toCharArray()) {
-            charCount1[c - 'a']--;
+            charCount[c - 'a']--;
         }
-        
-        // Check if all counts are zero
-        for(int count : charCount1) {
+
+        //check
+        for(int count : charCount) {
             if (count != 0) {
-                return false; //Not an anagram
+                return false;
             }
         }
 
-        return true; //Is an anagram
+        return true;
     }
     public static void main(String[] args) {
         String s = "anagram";
