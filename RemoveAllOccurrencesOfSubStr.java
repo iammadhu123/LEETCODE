@@ -28,11 +28,11 @@ public class RemoveAllOccurrencesOfSubStr {
     public static String removeOccurrences(String s, String part) {
         StringBuilder stack = new StringBuilder();
         for(char c : s.toCharArray()) {
-            stack.append(c);
-            if (stack.length() >= part.length()) {
+            stack.append(c); //push character into stack one by one
+            if (stack.length() >= part.length()) { //check last k letters
                 int start = stack.length() - part.length();
                 if (stack.substring(start).equals(part)) {
-                    stack.delete(start, stack.length());
+                    stack.delete(start, stack.length()); //if equal → pop them // delete the last k characters from stack till the end of stack
                 }
             }
         }
