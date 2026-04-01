@@ -85,8 +85,8 @@ class PermutationInString {
 
     public static void main(String[] args) {
 
-        String s1 = "ab";
-        String s2 = "eidbaooo";
+        String s1 = "adc";
+        String s2 = "dcda";
 
         System.out.println(checkInclusion(s1, s2)); // true
     }
