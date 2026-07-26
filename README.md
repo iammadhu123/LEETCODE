@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iammadhu123/LEETCODE/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/iammadhu123/LEETCODE/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/iammadhu123/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iammadhu123/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/iammadhu123/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/iammadhu123/LEETCODE/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/iammadhu123/LEETCODE/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
