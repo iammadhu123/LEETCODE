@@ -22,7 +22,6 @@ class Solution {
             curr = curr.next;
         }
 
-        // Pop nodes to rebuild reversed list
         ListNode newHead = s.pop(); // first popped node is new head
         ListNode temp = newHead;
 
