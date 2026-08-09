@@ -10,27 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        //Base case
-        if (head == null) {
-            return null;
-        }
-        Stack<ListNode> s = new Stack<>();
-
+        ListNode prev = null;
         ListNode curr = head;
+        ListNode next = null;
+
         while (curr != null) {
-            s.push(curr);
-            curr = curr.next;
+            next = curr.next; //preserve the address of next node
+            curr.next = prev; //link curr node to the prev node
+            prev = curr;
+            curr = next;
         }
 
-        ListNode newHead = s.pop(); // first popped node is new head
-        ListNode temp = newHead;
-
-        while (!s.isEmpty()) {
-            temp.next = s.pop(); 
-            temp = temp.next;
-        }
-
-        temp.next = null; 
-        return newHead;
+        return prev; //newHead 
     }
 }
