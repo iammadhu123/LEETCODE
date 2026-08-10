@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iammadhu123/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iammadhu123/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iammadhu123/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/iammadhu123/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iammadhu123/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iammadhu123/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
