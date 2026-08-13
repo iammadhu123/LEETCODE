@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/iammadhu123/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iammadhu123/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/iammadhu123/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iammadhu123/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/iammadhu123/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iammadhu123/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/iammadhu123/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iammadhu123/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iammadhu123/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iammadhu123/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iammadhu123/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/iammadhu123/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/iammadhu123/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iammadhu123/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
