@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -140,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
