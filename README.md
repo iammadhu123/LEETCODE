@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -163,9 +165,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
