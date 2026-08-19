@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iammadhu123/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iammadhu123/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/iammadhu123/LEETCODE/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iammadhu123/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
