@@ -3,11 +3,10 @@ class Solution {
         if(n == 0) {
             return 0;
         }
-        if(n == 1) {
+        if(n <= 2) {
             return 1;
         }
 
-        int fib_n = fib(n-1)  + fib(n-2);
-        return fib_n;
+        return fib(n-1)  + fib(n-2);
     }
 }
