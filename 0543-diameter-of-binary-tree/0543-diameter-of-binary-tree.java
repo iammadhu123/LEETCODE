@@ -24,6 +24,7 @@ class Solution {
         int leftHeight = height(node.left);
         int rightHeight = height(node.right);
 
+        // Diameter passing through current node
         diameter = Math.max(diameter, leftHeight + rightHeight);
 
         // return height to parent
