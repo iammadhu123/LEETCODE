@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/iammadhu123/LEETCODE/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/iammadhu123/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/iammadhu123/LEETCODE/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/iammadhu123/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/iammadhu123/LEETCODE/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/iammadhu123/LEETCODE/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/iammadhu123/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/iammadhu123/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/iammadhu123/LEETCODE/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/iammadhu123/LEETCODE/tree/master/0687-longest-univalue-path) |
 ## Memoization
 |  |
 | ------- |
