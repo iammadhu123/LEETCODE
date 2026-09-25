@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iammadhu123/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/iammadhu123/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iammadhu123/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/iammadhu123/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 <!---LeetCode Topics End-->
