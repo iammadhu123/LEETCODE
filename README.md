@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
