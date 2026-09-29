@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/iammadhu123/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iammadhu123/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/iammadhu123/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iammadhu123/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Matrix
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iammadhu123/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iammadhu123/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/iammadhu123/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
