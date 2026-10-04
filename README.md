@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/iammadhu123/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/iammadhu123/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/iammadhu123/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,9 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 <!---LeetCode Topics End-->
