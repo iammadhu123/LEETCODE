@@ -3,21 +3,20 @@ class Solution {
         List<int[]> ans = new ArrayList<>();
 
         for (int i = 0; i < intervals.length; i++) {
-            // Before newInterval
-            if (intervals[i][1] < newInterval[0]) {
-                ans.add(intervals[i]);
-            }
 
-            // After newInterval
-            else if (intervals[i][0] > newInterval[1]) {
+            //currinterval is completely before newinterval
+            if (intervals[i][1] < newInterval[0]) {
+                ans.add(intervals[i]); //intervals[i] = [starti, endi]
+
+            } else if (intervals[i][0] > newInterval[1]) { //currinterval is completely after newinterval
                 ans.add(newInterval);
+
                 for (int j = i; j < intervals.length; j++) {
                     ans.add(intervals[j]);
                 }
                 return ans.toArray(new int[ans.size()][]);
-            }
-            // Overlap
-            else {
+
+            } else { //overlap
                 newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
                 newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
             }
@@ -27,3 +26,4 @@ class Solution {
         return ans.toArray(new int[ans.size()][]);
     }
 }
+
