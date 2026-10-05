@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/iammadhu123/LEETCODE/tree/master/0049-group-anagrams) |
+| [0678-valid-parenthesis-string](https://github.com/iammadhu123/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/iammadhu123/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iammadhu123/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/iammadhu123/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/iammadhu123/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/iammadhu123/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/iammadhu123/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/iammadhu123/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/iammadhu123/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/iammadhu123/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/iammadhu123/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iammadhu123/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
