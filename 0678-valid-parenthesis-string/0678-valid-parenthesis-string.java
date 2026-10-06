@@ -1,27 +1,32 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int minOpen = 0;
-        int maxOpen = 0;
+        int openCount = 0;
+        int closeCount = 0;
 
-        for (char ch : s.toCharArray()) {
-            if (ch == '(') {
-                minOpen++;
-                maxOpen++;
-            } else if (ch == ')') {
-                minOpen--;
-                maxOpen--;
-            }  else { 
-                minOpen--; 
-                maxOpen++;
+        int length = s.length();
+
+        for(int i = 0; i<length; i++) {
+
+            if(s.charAt(i) == '(' || s.charAt(i) == '*') {
+                openCount++;
+            } else {
+                openCount--;
             }
 
-            if (maxOpen < 0) {
+            if(openCount < 0) {
                 return false;
             }
 
-            minOpen = Math.max(minOpen, 0);
-        }
+            if(s.charAt(length-i-1) == ')' || s.charAt(length-i-1) == '*') {
+                closeCount++;
+            } else {
+                closeCount--;
+            }
 
-        return minOpen == 0;
+            if(closeCount < 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
