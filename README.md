@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iammadhu123/LEETCODE/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/iammadhu123/LEETCODE/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/iammadhu123/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/iammadhu123/LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/iammadhu123/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/iammadhu123/LEETCODE/tree/master/0049-group-anagrams) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/iammadhu123/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/iammadhu123/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iammadhu123/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/iammadhu123/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/iammadhu123/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/iammadhu123/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/iammadhu123/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/iammadhu123/LEETCODE/tree/main/0435-non-overlapping-intervals/) | Medium |
