@@ -98,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/iammadhu123/LEETCODE/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/iammadhu123/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/iammadhu123/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/iammadhu123/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/iammadhu123/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/iammadhu123/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/iammadhu123/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/iammadhu123/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/iammadhu123/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
